@@ -10,3 +10,5 @@
 ### Работа с файлами
 
 [Теория](advanced_basics/files/files.md)
+
+[Задачи](advanced_basics/files/tasks.md)
